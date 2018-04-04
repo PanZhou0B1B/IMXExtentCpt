@@ -22,7 +22,7 @@ end
 s.subspec 'IMXUIKitExt' do |uext|
 uext.source_files  = 'IMXExtentCpt/IMXUIKitExt/*.{h,m}'
 uext.public_header_files = [
-''IMXExtentCpt/IMXUIKitExt/*.{h}'
+'IMXExtentCpt/IMXUIKitExt/*.{h}'
 ]
 end
 
